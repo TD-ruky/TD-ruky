@@ -8,7 +8,7 @@
 <h2 align="left">Connect with me:</h2>
 -via Linkedin <a href="https://linkedin.com/in/thomas-derivaux-02363b206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-derivaux-02363b206" height="30" width="40" /></a>
 </p>
--via my email **derivauxthomas@gmail.com**
+-via my email <a href="mailto:derivauxthomas@gmail.com">derivauxthomas@gmail.com</a> 
 <p align="left">
 </p>
 
